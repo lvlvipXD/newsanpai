@@ -976,7 +976,7 @@ ${isWin ? `@${winner.split('@')[0]} مبروك ربحت!` : isTie ? `لقد خس
 ❌: @${room.game.playerX.split('@')[0]}
 ⭕: @${room.game.playerO.split('@')[0]}
 
-كتب * استسلام * ل الاستسلام والاعتراف يهزما`
+اكتب * استسلام * ل الاستسلام والاعتراف يهزم`
 	    if ((room.game._currentTurn ^ isSurrender ? room.x : room.o) !== m.chat)
 	    room[room.game._currentTurn ^ isSurrender ? 'x' : 'o'] = m.chat
 	    if (room.x !== room.o) await XeonBotInc.sendText(room.x, str, m, { mentions: parseMention(str) } )
@@ -1094,7 +1094,7 @@ const reactionMessage = {
                 const timestampe = speed();
 const latensie = speed() - timestampe
                 const menulist = `┌─❖
-│「 هاي 👋 」
+│「 هلا 👋 」
 └┬❖ 「 ${pushname} 」
 ┌┤✑  كيف حالك? 😄
 │└────────────┈ ⳹
