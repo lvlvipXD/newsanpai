@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['967770500831'] //ur owner number
-global.ownername = "⚜️𝙱𝙾𝚃_𝚁𝙰𝙸𝚉𝙴𝙻⚜️" //ur owner name
+global.ownername = "🔱 𝚁𝚊𝚒𝚣𝚎𝚕 𝙶𝚎𝚘𝚛𝚐𝚎 🔱" //ur owner name
 global.ytname = "YT: RAIZEL" //ur yt chanel name
 global.socialm = "GitHub: Elgazar" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
@@ -69,7 +69,7 @@ global.websitex = "https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn" //ur websit
 global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
 global.reactmoji = "🐦" //ur menu react emoji
 global.themeemoji = "🌚" //ur theme emoji
-global.packname = "⚜️𝙱𝙾𝚃_𝙳𝙰𝙴𝙼𝙾𝙽⚜️" //ur sticker watermark packname
+global.packname = "+967770500831" //ur sticker watermark packname
 global.author = "⚜️𝚁𝙰𝙸𝚉𝙴𝙻⚜️" //ur sticker watermark author
 
 //Bot theme media
@@ -106,7 +106,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '*｢تم ✓｣*',
-    admin: '*｢هذه الميزه للرجال فقط تمرجلي وحاولي من جديد｣*',
+    admin: '*｢هذه الميزه للمشرفين فقط｣*',
     botAdmin: '*｢جيب اشراف لتفعيل الأمر｣*',
     owner: '*｢هذه الميزه للمالك فقط｣*',
     group: '*｢هذه الميزه بالقروبات فقط｣*',
